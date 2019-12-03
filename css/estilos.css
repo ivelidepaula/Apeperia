@@ -166,8 +166,8 @@ header .container {
     width: 14.8em; }
     .itens-plano li:last-child {
       border: 0; }
-    .itens-plano li span {
-      float: right; }
+  .itens-plano span {
+    float: right; }
 
 .plano button {
   background: #c24e4b;

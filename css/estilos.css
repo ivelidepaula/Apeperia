@@ -23,7 +23,7 @@ h2 {
 /** Header **/
 header {
   border-top: 5px solid #c24e4b;
-  background: rgba(30, 44, 53, 0.8);
+  background: #1e2c35;
   height: 90px;
   width: 100%;
   position: absolute; }

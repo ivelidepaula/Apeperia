@@ -1,6 +1,6 @@
 // Variaveis usadas no meu Sass
-$cor-padrao: #c24e4b;
-$cor-auxiliar: #1e2c35;
+$cor-padrao: darken(#c24e4b, 0);
+$cor-auxiliar: lighten(#1e2c35, 0);
 $corbranca: #FFF;
 
 // Mixins usados no meu Sass
@@ -50,7 +50,7 @@ h2 {
 /** Header **/
 header {
   border-top: 5px solid $cor-padrao;
-  background: rgba(30, 44, 53, 0.8);
+  background: $cor-auxiliar;
   height: 90px;
   width: 100%;
   position: absolute;
